@@ -1,0 +1,15 @@
+{
+  "name": "the-thing",
+  "version": "1.0.0",
+  "description": "gets roblox user data & displays it",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "reflexsilver",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "electron": "^33.2.0"
+  }
+}
